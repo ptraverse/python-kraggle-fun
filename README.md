@@ -1,13 +1,15 @@
 kraggle-titanic
 ==============
 
-Taking KRAGGLE for a test spin via cloud9 https://github.com/ptraverse/python-kraggle-fun.git
+Taking KRAGGLE for a test spin via cloud9 
+https://github.com/ptraverse/python-kraggle-fun.git
+https://ide.c9.io/ptraverse/python-kraggle-fun
 
 # build
 
-git clone https://github.com/ptraverse/python-kraggle-fun.git
-pip install -r requirements.txt
-python genderclassmodel-pandas.py
+    git clone https://github.com/ptraverse/python-kraggle-fun.git
+    pip install -r requirements.txt
+    python genderclassmodel-pandas.py
 
 # license
 
